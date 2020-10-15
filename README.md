@@ -1,6 +1,6 @@
 # DiceGame
 
-[ See Demo: https://jeopardydice.herokuapp.com/ ]
+[See Demo](https://jeopardydice.herokuapp.com/)
 
 A simple 2-player game app created using HTML, CSS and JavaScript to practise my knowledge and skills of DOM. This app is for educational purposes only.
 
