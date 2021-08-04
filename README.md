@@ -1,6 +1,6 @@
 # DiceGame
 
-[See Demo](https://jeopardydice.herokuapp.com/)
+[See Demo](https://cjang123-piggame.herokuapp.com/)
 
 A simple 2-player game app created using HTML, CSS and JavaScript to practise my knowledge and skills of DOM. 
 # How to Play
